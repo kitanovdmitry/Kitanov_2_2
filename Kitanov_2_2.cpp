@@ -1,7 +1,12 @@
+/* Автор: Дмитрий Китанов
+Группа: СБС-001-О-01
+Задание№: 2: 2)
+Цель: вычислить экспоненту с заданной границей ряда
+*/
+
 #include <iostream>
 #include <cmath>
 #include <climits>
-
 
 using namespace std;
 double factorial(int number)
